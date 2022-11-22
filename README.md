@@ -1,6 +1,6 @@
 # Data-Analysis
-The projects contain various data sets for which Exploratory Data Analysis has been carried out using Python and 
-libraries used are Numpy, Pandas, Seaborn, Matplotlib
+• The projects contain various data sets for which exploratory data analysis has been carried out using python and 
+libraries used are numpy, pandas, seaborn and matplotlib
 
 • Scraped YouTube data using YouTube Data API
 • Extracted the data, loaded the data into a python pandas dataframe and then analyzed the data
